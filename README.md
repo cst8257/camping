@@ -52,7 +52,7 @@ Include `camping.php` inside `index.php`.
     2. The number of `marshmallows`
     3. The number of `wood`
     4. The status of the `tent`
-    5. The status of `fire`
+    5. The status of the `fire`
 
 ### 4. Send commands using the POST Method
 In `index.php`, update the form to submit using the `POST` method.
